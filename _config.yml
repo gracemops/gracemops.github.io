@@ -6,9 +6,7 @@ baseurl:           "/gracemops.github.io"
 url:               "http://gracemops.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+facebook_username: gracemopsorangepark
 
 # Build settings
 markdown:          kramdown
